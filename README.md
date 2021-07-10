@@ -1,12 +1,3 @@
-
-
-<img align="left" src="https://cdn.pixabay.com/photo/2016/03/09/15/30/shoes-1246691_1280.jpg" alt="alt text" width="100%" height="400">
-
-
-
-
-
-
 <!--
 **ShMike6491/ShMike6491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
